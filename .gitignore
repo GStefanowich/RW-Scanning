@@ -1,0 +1,13 @@
+[As]ssemblies
+
+Source/RoofedScanning/[Bb]in
+Source/RoofedScanning/[Oo]bj
+Source/RoofedScanning/[Ll]og
+Source/RoofedScanning/[Ll]ogs
+
+Source/RoofedScanning/[Pp]roperties
+Source/RoofedScanning/[Pp]ackages
+Source/RoofedScanning/.idea
+Source/RoofedScanning/.vscode
+
+*.user
